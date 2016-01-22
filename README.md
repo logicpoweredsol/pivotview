@@ -1,4 +1,4 @@
-# pivotview
+# pivotview Forked by LogicPowered Solution
 A custom pivot view for Omniscope 3.0
 
 To get started, see Source/standalone.html.
